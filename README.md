@@ -5,10 +5,10 @@
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/poweright"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20/></a>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=poweright&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hweawer&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poweright&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hweawer&langs_count=5&theme=tokyonight)]()
 <!--
 **poweright/poweright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
