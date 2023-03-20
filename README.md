@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm learning Rust, database enginees and distributed algorithms
-- 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/poweright"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20/></a>
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hweawer&count_private=true&theme=tokyonight&showicons=true)]()
 
