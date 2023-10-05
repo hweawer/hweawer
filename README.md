@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm learning Rust, database enginees and distributed algorithms
+- 🌱 I'm learning Rust, Golang, database enginees, distributed algorithms, cryptography and blockchain
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hweawer&count_private=true&theme=tokyonight&showicons=true)]()
